@@ -1,0 +1,10 @@
+{
+    "name": "container2",
+    "version": "1.0.0",
+    "description": "Container 2 for Kubernetes assignment",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "csv-parser": "^3.0.0"
+    }
+  }
